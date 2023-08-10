@@ -15,11 +15,9 @@ mv backup.sh backup
 ```
 4. Adding the file to suitable to dir to make it a command
 ```sh
-cp backup /usr/local/bin
+sudo cp backup /usr/local/bin
 ```
-5. Restart the terminal
-
-6. Write command in your terminal
+5. Write command in your terminal
 ```sh
 backup
 ```
