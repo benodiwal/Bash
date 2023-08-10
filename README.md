@@ -1,4 +1,5 @@
 # Backup Sript in Bash to create backup of files using some compression algos like gzip or bzip2.
+
 ## How to run it on your linux machine
 
 1. Cloning this repo in your machine
@@ -13,7 +14,7 @@ cd Bash
 ```sh
 mv backup.sh backup
 ```
-4. Adding the file to suitable to dir to make it a command
+4. Adding the file to suitable dir to make it a command
 ```sh
 sudo cp backup /usr/local/bin
 ```
